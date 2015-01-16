@@ -60,7 +60,7 @@ hi Debug           ctermfg=174    guifg=#D78787
 hi Underlined      ctermfg=fg     guifg=fg
 hi Ignore          ctermfg=none   guifg=none
 hi Error           ctermfg=231    ctermbg=167    guifg=#FFFFFF guibg=#D75F5F
-hi Todo            ctermfg=244    ctermbg=none   cterm=none    guifg=#808080 guibg=none       gui=none
+hi Todo            ctermfg=191    ctermbg=none   cterm=none    guifg=#808080 guibg=none       gui=none
 
 " Status and tabline
 hi StatusLine      ctermfg=fg     ctermbg=237    cterm=none    guifg=fg      guibg=#3A3A3A    gui=none
